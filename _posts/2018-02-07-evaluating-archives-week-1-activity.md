@@ -4,8 +4,38 @@ published: true
 category: ext-projects
 title: Evaluating Archives - Week 1 Activity
 author: Ben
+tags: ''
 ---
 ## Evaluating Archives
+
+**Criteria from class:**
+You may choose several criteria from this list, or come up with your own.
+
+- Is it clear what kind of materials are in the collection? 
+- How easy is the interface to navigate?
+- What is the organizing principle?
+- How are the items contextualized? (Historically, socially, thematically, etc.)
+- Who is the audience? (Are they casual viewers, specialized scholars, or someone else?)
+- Does the archive make reference to a physical exhibition space?
+- Does the archive provide direct access to the collection materials?
+- How does the archive make its collection continuously relevant? Is it updated?
+- Are there links to scholarship, writing, or events that involve the archive?
+- How consistent is the archive across different sections, items, or pages?
+- What tools does the archive offer for filtering, sorting, or reorganizing?
+- What is the archive's aesthetic? Is the visual layout effective?
+- What does the archive institution ask from you, and why? (Personal data, signup, surveys, advertising, etc)
+- Who is the archive's curator? When and where did/does curation take place?
+- What possibilities exist (within the interface) for creative or generative interaction with the archival materials? Is there a place to add/share your own insights?
+- Is there social media integration, and how useful is it? Are there other ways to interact with fellow visitors?
+- What are the possibilities and restrictions for exploration?
+- Waht data are available? Missing? Hidden?
+- How well does the interface suit the collection materials?
+- How does the interface utilize non-visual sensation (such as sound, emotion, affect)?
+- What is surprising about the archive?
+- What aspects are strongest and weakest?
+
+For further inspiration, you may also wish to view some [evaluations of archives](http://www.halperta.com/criticalarchives/blog/) from students in "Critical Digital Archives," a course taught at UT Austin by Hannah Alpert-Abrams and Kelly McDonough.
+
 
 **Archives from class:**
 
