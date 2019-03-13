@@ -42,9 +42,7 @@ https://www.nytimes.com/2000/02/27/arts/music-when-cabaret-had-an-edge.html)
 
 ### Katrin sent me these links to sheet music today that I will delve into later: 
 - https://fau.digital.flvc.org/islandora/search/?type=edismax&collection=fau%3Apsm
-- https://yivo.org/music
+- http://jmwc.org/publishers-scores-and-music/
 - https://www.jwpepper.com/sheet-music/jewish-songbooks.list
 - https://yivo.org/music
 - https://library.brown.edu/dps/curio/category/collections/yiddish-sheet-music/
-
-
