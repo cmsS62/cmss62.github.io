@@ -11,6 +11,8 @@ author: Jasmine Yuan
 
 I looked into the book “Passing Illusions: Jewish Visibility in Weimar Germany” by Kerry Wallach, which provides some insight into the presentation of Jewishness during the time period in Germany. Wallach examines constructs of German-Jewish identity, and the reasons for concealing and revealing this identity through performance, cultural products, and other public displays. The Weimar Republic represents an opening up of possibilities as well as a closing in fueled by nationalism and the end of the war. With the renewed sense of identity in the Jewish community in the Weimar era came an increase in hostility and anti-Semitic sentiments.
 
+I also explored the book “Three-Way Street: Jews, Germans, and the Transnational”, which examines the transnational identity of German-Jews. Rosenfeld’s essay “Between Memory and Normalcy: Synagogue Architecture in Postwar Germany” discusses the significance of the construction history of synagogues and how these buildings of worship reflect the community’s identity. The architecture is shaped by these postwar cultural and societal trends. Weiss’s essay “Klezmer in the New Germany: History, Identity, and Memory” explores the connections of traditional Klezmer music to Jewish settlements and the differences in identities and associations with native German-Jews. The music is significant due to its politically charged nature, cultural ties, and public reception in Germany. 
+
 The Jewish Life in Berlin project should explore these societal issues, and how they are represented through public performance and entertainment culture. These will be viewed and revealed through the lens of the figures that will be represented on the website. 
 
 ### Connections
