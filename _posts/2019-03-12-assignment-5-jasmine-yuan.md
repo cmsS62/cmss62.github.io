@@ -9,9 +9,9 @@ author: Jasmine Yuan
 
 ### Updates
 
-I explored the book “Passing Illusions: Jewish Visibility in Weimar Germany” by Kerry Wallach, which provides some insight into the presentation of Jewishness during the time period in Germany. Wallach examines constructs of German-Jewish identity, and the reasons for concealing and revealing this identity through performance, cultural products, and other public displays. The Weimar Republic represents an opening up of possibilities as well as a closing in fueled by nationalism and the end of the war. With the renewed sense of identity in the Jewish community in the Weimar era came an increase in hostility and anti-Semitic sentiments.
+I looked into the book “Passing Illusions: Jewish Visibility in Weimar Germany” by Kerry Wallach, which provides some insight into the presentation of Jewishness during the time period in Germany. Wallach examines constructs of German-Jewish identity, and the reasons for concealing and revealing this identity through performance, cultural products, and other public displays. The Weimar Republic represents an opening up of possibilities as well as a closing in fueled by nationalism and the end of the war. With the renewed sense of identity in the Jewish community in the Weimar era came an increase in hostility and anti-Semitic sentiments.
 
-The Jewish Life in Berlin project should delve into these societal issues and political climate of the Weimar era. These will be viewed and revealed through the lens of the figures that will be represented on the website. 
+The Jewish Life in Berlin project should explore these societal issues, and how they are represented through public performance and entertainment culture. These will be viewed and revealed through the lens of the figures that will be represented on the website. 
 
 ### Connections
 
