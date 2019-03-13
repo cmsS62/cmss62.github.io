@@ -19,7 +19,11 @@ The network of the archive should contain nodes of figures and places that are c
 
 - The Comedian Harmonists are connected to many areas of the music network in 1920s Berlin. Harry Frommermann, a Jewish member and founder of the Comedian Harmonists can act as a node in the network. The Comedian Harmonists performed at the Kabarett der Komiker in October 1928, making a crossover to the cabaret scene. The Comedian Harmonists are also  the first popular-music group to play in the Berlin Philharmonic hall, connecting to the concert music scene by performing popular music in a formal concert venue.
 
-- Friedrich Hollaender composed "Just Suppose" and “Lavender Song”, which were performed in the cabaret. These songs are highly topical, referencing homosexuality and the “liberal culture” of politics in the cabaret. Several figures who have performed Hollaender’s songs in the cabaret include Valeska Gert, a cabaret actress, and Curt Bois, a cabaret performer. Hollaender not only composed music for the cabaret but also for theater productions. Hollaender later had to leave Nazi Germany in 1933 due to his Jewish descent. 
+- Friedrich Hollaender composed "Just Suppose" and “Lavender Song”, which were performed in the cabaret. These songs are highly topical, referencing homosexuality and the “liberal culture” of politics in the cabaret. Several figures who have performed Hollaender’s songs in the cabaret include Valeska Gert, a cabaret actress, and Curt Bois, a cabaret performer. Hollaender not only composed music for the cabaret but also for theater productions and films. Hollaender later had to leave Nazi Germany in 1933 due to his Jewish descent. 
+
+- Hollaender is connected to Berlin’s Metropol-Theater, which developed into an operetta stage in the 1920s. Hollaender’s father, Victor Hollaender, composed operettas and revues for the theater. The Metropol-Theater revues were important in shaping popular entertainment culture with their depiction of political satire and parody. Its messages were directly influential to other forms of popular media and music genres. The cabaret, popular songs, and operettas echoed messages of the Metropol Theater revues. 
+(https://jewishlifeinberlin.slack.com/messages/CGG5SU7UJ/files/FGJLWP9RR/)
+
 
 
 ### Visual layout & audience experience ideas 
