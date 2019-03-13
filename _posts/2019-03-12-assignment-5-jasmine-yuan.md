@@ -24,6 +24,13 @@ The network of the archive should contain nodes of figures and places that are c
 - Hollaender is connected to Berlin’s Metropol-Theater, which developed into an operetta stage in the 1920s. Hollaender’s father, Victor Hollaender, composed operettas and revues for the theater. The Metropol-Theater revues were important in shaping popular entertainment culture with their depiction of political satire and parody. Its messages were directly influential to other forms of popular media and music genres. The cabaret, popular songs, and operettas echoed messages of the Metropol Theater revues. 
 (https://jewishlifeinberlin.slack.com/messages/CGG5SU7UJ/files/FGJLWP9RR/)
 
+-Friedrich Hollaender, Hanns Eisler, Kurt Weill, and Bertolt Brecht collaborated on revues and were involved in creating works for the theater. Kurt Weill composed operas, film music, and symphonic music for orchestra and choir. He developed productions for the theater such as The Threepenny Opera with Brecht, which contained political themes. Weill also faced financial hardships. Weill joined the Novembergruppe in 1922, which contained radical Berlin artists including Hanns Eisler. 
+
+First page of Weill's manuscript:
+![Weill manuscript.jpg]({{site.baseurl}}/assets/Weill manuscript.jpg)
+
+- Hanns Eisler studied under Arnold Schoenberg from 1919 to 1923, and he composed classical works for concert performance using Schoenberg’s twelve-tone technique. Later on, his music began incorporating political themes as well as drawing popular music influences from jazz and the cabaret. Eisler’s music acts as a transition from and a connection between formal classical concert music into the popular music of Weimar’s jazz age. Additionally, Eisler wrote music for several Brecht plays. (https://www.broadwayworld.com/article/Previously-Unknown-Kurt-Weill-Song-Discovered-in-Berlin-Archive-20171106 
+https://www.nytimes.com/2000/02/27/arts/music-when-cabaret-had-an-edge.html)
 
 
 ### Visual layout & audience experience ideas 
